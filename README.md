@@ -1,4 +1,4 @@
-#📲 Notas App
+## 📲 Notas App
 
 Aplicativo de Anotações, feito em .Net MAUI no Microsoft Visual Studio Community 2022.
 
