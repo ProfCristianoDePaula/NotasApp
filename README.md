@@ -5,7 +5,6 @@ Aplicativo de Anotações, feito em .Net MAUI no Microsoft Visual Studio Commun
 ## 💻 Atividade de Aula
 
 Prof. Cristiano de Paula
-
 Prof. Gustavo Castello
 
 
